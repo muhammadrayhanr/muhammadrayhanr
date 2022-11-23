@@ -43,9 +43,9 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://mrayhanr.netlify.app/"><img src="https://img.shields.io/badge/-mrayhanr.netlify.app-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/mrayhanr4869"><img src="https://img.shields.io/badge/-Muhammad%20Rayhan%20Rohadi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:mrayhanr4869@gmail.com"><img src="https://img.shields.io/badge/-mrayhanr4869@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/mrayhanrohadi"><img src="https://img.shields.io/badge/-@mrayhanrohadi-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/boy314"><img src="https://img.shields.io/badge/-Muhammad Rayhan-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://mrayhanr.my.id/"><img src="https://img.shields.io/badge/-Website-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/mrayhanr4869"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:mrayhanr4869@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/mrayhanrohadi"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/boy314"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
